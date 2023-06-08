@@ -1,0 +1,8 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/super-l/machine-code v0.0.0-20210720085303-62525d58dab0 h1:86uXHkVAPTSw+Sevxpnm9SyhuclFO/X9QdfPDyUgOi8=
+github.com/super-l/machine-code v0.0.0-20210720085303-62525d58dab0/go.mod h1:mWw3/mSonDcy9YnrMDrMpOmwSpsSeEqI5Qq6ZwOdAo0=
+github.com/wenzhenxi/gorsa v0.0.0-20230530123828-0320cce15d81 h1:mCWpbHxvTg/p9wIKzyR34b65g9p142HFpp6YtsyXTDw=
+github.com/wenzhenxi/gorsa v0.0.0-20230530123828-0320cce15d81/go.mod h1:nfhBTKji6rC8lrjyikx8NJ85JHg6ZQam0a9Je+2RVOg=
